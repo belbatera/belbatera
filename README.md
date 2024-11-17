@@ -1,4 +1,4 @@
-# Repositório Pessoal - [Seu Nome]
+# Repositório Pessoal - Emerson Santana
 
 Este repositório contém uma coleção de projetos pessoais, notebooks, scripts e outros recursos relacionados ao meu trabalho como Engenheiro e Cientista de Dados.  Ele serve como um portfólio e demonstra minhas habilidades em diversas áreas, incluindo:
 
